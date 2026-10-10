@@ -4,8 +4,8 @@ export default function Labs() {
   return (
     <div id="wd-labs">
       <h1>Labs</h1>
-      <h2>Jose Annunziato</h2>
-      <p>CS4550 Section 01</p>
+      <h2>Amanda Shayna Ahteck</h2>
+      <p>CS5610 Section 09</p>
       <ul>
         <li>
           <Link href="/labs/lab1">Lab 1: HTML Examples</Link>
@@ -29,7 +29,7 @@ export default function Labs() {
         </li>
         <li>
           <a
-            href="https://github.com/jannunzi/webdev-client"
+            href="https://github.com/asahteck/webdev-client"
             id="wd-github"
             target="_blank"
             rel="noreferrer"
